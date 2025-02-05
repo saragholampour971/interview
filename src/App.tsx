@@ -1,10 +1,10 @@
 import './App.css';
-import ScrollableArea from "./components/scrollable-area";
+import NumbersSlider from "./components/numbers-slider";
 
 function App() {
   return (
     <div className="App">
-        <ScrollableArea/>
+        <NumbersSlider/>
     </div>
   );
 }
